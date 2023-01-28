@@ -8,9 +8,8 @@ tags = ["blog", "responsive", "clean"]
 features = ["mathjax", "customizable", "color"]
 min_version = "0.55"
 
-# If the theme has a single author
 [author]
-    name = "choajie"
+    name = "chaojie"
     homepage = "https://github.com/ischaojie"
 
 # If porting an existing theme
